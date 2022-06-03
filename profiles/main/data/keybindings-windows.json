@@ -1,0 +1,44 @@
+// Empty
+[
+  {
+    "key": "ctrl+alt+oem_3",
+    "command": "shellLauncher.launch"
+  },
+  {
+    "key": "ctrl+alt+s",
+    "command": "workbench.action.files.saveWithoutFormatting"
+  },
+  {
+    "key": "ctrl+k ctrl+shift+s",
+    "command": "-workbench.action.files.saveWithoutFormatting"
+  },
+  {
+    "key": "ctrl+alt+c",
+    "command": "console.log.wrap.down.prefix",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "ctrl+alt+w ctrl+alt+down",
+    "command": "-console.log.wrap.down.prefix",
+    "when": "editorTextFocus"
+  },
+  {
+    "key": "ctrl+shift+d",
+    "command": "-workbench.view.debug",
+    "when": "viewContainer.workbench.view.debug.enabled"
+  },
+  {
+    "key": "ctrl+shift+d",
+    "command": "workbench.view.debug"
+  },
+  {
+    "key": "ctrl+alt+enter",
+    "command": "github.copilot.generate",
+    "when": "editorTextFocus && github.copilot.activated"
+  },
+  {
+    "key": "ctrl+enter",
+    "command": "-github.copilot.generate",
+    "when": "editorTextFocus && github.copilot.activated"
+  }
+]

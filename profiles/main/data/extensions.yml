@@ -1,0 +1,88 @@
+disabled: []
+enabled:
+  - id: aaron-bond.better-comments
+    uuid: 7a0110bb-231a-4598-aa1b-0769ea46d28b
+  - id: adpyke.vscode-sql-formatter
+    uuid: ac70a31d-d9ab-417b-b259-baf7cd9d6cb0
+  - id: albert.TabOut
+    uuid: 4ef6c2d5-de36-45a1-9015-18c1d4a3a25e
+  - id: antfu.file-nesting
+    uuid: e53e2287-966c-445f-91b8-d77ab2ba18fc
+  - id: bradlc.vscode-tailwindcss
+    uuid: 4db62a7c-7d70-419c-96d2-6c3a4dc77ea5
+  - id: BriteSnow.vscode-toggle-quotes
+    uuid: 8d088af2-ecd1-4b8f-93e9-322125c47b3c
+  - id: bungcip.better-toml
+    uuid: 464f4ac7-af65-4aa9-9907-4ba7fa419085
+  - id: cssho.vscode-svgviewer
+    uuid: 6f5d4f30-67aa-4151-80c0-1bbe8ca5f9db
+  - id: dbaeumer.vscode-eslint
+    uuid: 583b2b34-2c1e-4634-8c0b-0b82e283ea3a
+  - id: dsznajder.es7-react-js-snippets
+    uuid: 19804510-b475-4dae-b0f7-6ca08fd1af0c
+  - id: esbenp.prettier-vscode
+    uuid: 96fa4707-6983-4489-b7c5-d5ffdfdcce90
+  - id: formulahendry.auto-rename-tag
+    uuid: 6e440e71-8ed9-4f25-bb78-4b13096b8a03
+  - id: GitHub.copilot
+    uuid: 23c4aeee-f844-43cd-b53e-1113e483f1a6
+  - id: heybourn.headwind
+    uuid: 6226e0be-5975-4616-948c-545d562adc1d
+  - id: JakeWilson.vscode-placeholder-images
+    uuid: 76b073cf-a5e7-434b-89a5-dc9203e312f8
+  - id: James-Yu.latex-workshop
+    uuid: 61d03280-3919-4dd1-bce1-178ca21fdeaf
+  - id: KnisterPeter.vscode-commitizen
+    uuid: 726dd888-7465-4e27-a016-4288df7be24a
+  - id: midnightsyntax.vscode-wrap-console-log
+    uuid: 3262c42b-a248-4b97-9f4d-5a6812bac132
+  - id: mikestead.dotenv
+    uuid: 532533c9-a894-4a58-9eee-bbfbe7c06f71
+  - id: ms-azuretools.vscode-docker
+    uuid: 0479fc1c-3d67-49f9-b087-fb9069afe48f
+  - id: ms-vscode-remote.remote-containers
+    uuid: 93ce222b-5f6f-49b7-9ab1-a0463c6238df
+  - id: ms-vscode-remote.remote-ssh
+    uuid: 607fd052-be03-4363-b657-2bd62b83d28a
+  - id: ms-vscode-remote.remote-ssh-edit
+    uuid: bfeaf631-bcff-4908-93ed-fda4ef9a0c5c
+  - id: ms-vscode-remote.remote-wsl
+    uuid: f0c5397b-d357-4197-99f0-cb4202f22818
+  - id: ms-vscode-remote.vscode-remote-extensionpack
+    uuid: 23d72dfc-8dd1-4e30-926e-8783b4378f13
+  - id: ms-vscode.powershell
+    uuid: 40d39ce9-c381-47a0-80c8-a6661f731eab
+  - id: ms-vsliveshare.vsliveshare
+    uuid: 5a6dc0d5-dc02-4121-8e24-cad33a2ff0af
+  - id: ozaki.markdown-github-dark
+    uuid: e1123c60-5b68-44e3-acc5-8e26f49439d0
+  - id: ritwickdey.LiveServer
+    uuid: b63c44fd-0457-4696-99e9-dbfdf70d77de
+  - id: rust-lang.rust
+    uuid: 570e6089-b871-41df-9cf4-a723cb34ef01
+  - id: rust-lang.rust-analyzer
+    uuid: 06574cb4-e5dc-4631-8174-a543a4533621
+  - id: savioserra.theme-switcher
+    uuid: a7848537-c0f4-4932-972a-d7dbf4fe5122
+  - id: serayuzgur.crates
+    uuid: 6a95a3fd-3a5d-4326-b8ab-1b1653b1f183
+  - id: Swellaby.rust-pack
+    uuid: 9cc805cb-ca18-444d-9ae1-3600fa0cd84a
+  - id: TakumiI.markdowntable
+    uuid: 5a882e99-34b7-4450-a0b1-f1bd94681c7b
+  - id: truman.autocomplate-shell
+    uuid: f4d3cd15-6434-4267-a9d3-7e5f08c174da
+  - id: Tyriar.shell-launcher
+    uuid: 76e37267-9f32-4816-b6c8-47a3928b94c9
+  - id: usernamehw.errorlens
+    uuid: 9d8c32ab-354c-4daf-a9bf-20b633734435
+  - id: vscode-icons-team.vscode-icons
+    uuid: 9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a
+  - id: vsls-contrib.gistfs
+    uuid: 0cfb9d1d-3e59-4c36-a597-157b54e4442b
+  - id: xaver.clang-format
+    uuid: 04208f17-8aed-4d49-b0a2-fbce829efbeb
+  - id: yzane.markdown-pdf
+    uuid: f015bc3c-a098-4245-8765-615e002e09ab
+  - id: yzhang.markdown-all-in-one
+    uuid: 98790d67-10fa-497c-9113-f6c7489207b2
